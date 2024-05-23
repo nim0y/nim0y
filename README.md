@@ -25,7 +25,7 @@
 ###
 ###
 
-<h4 align="left">Как со мной связаться:<br>- https://t.me/nim0y33<br>- mikhail.khenkin@yandex.ru<br>-
+<h4 align="left">Как со мной связаться:<br>- https://t.me/nim0y33<br>- mikhail.khenkin@yandex.ru<br>
 
 ###
 
