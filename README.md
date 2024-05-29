@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Меня зовут Mikhail Khenkin и я Android developer</h2>
+<h2 align="left">Меня зовут Михаил Хенкин и я Android developer</h2>
 
 ###
 
